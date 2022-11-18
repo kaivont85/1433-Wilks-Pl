@@ -171,13 +171,13 @@ header ul li a:hover, header ul li a.active {
 }
 
 #property-details strong {
-  font-size: 1.0rem;
+  font-size: 1.2rem;
   display: block;
-  line-height: .5;
+  line-height: 1;
 }
 
 #property-details small {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   font-weight: 300;
 }
 
